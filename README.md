@@ -2,7 +2,7 @@
 
 2025 version of our flagship 10-week program that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
 
-[Bitcoin Diploma - 2025 - PDF file](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/blob/f0afa56e1d21e445cf317a814af2f2e1c2e234d3/Compressed%20-%20Bitcoin%20Diploma%20-%202025%20-%20PDF.pdf)
+[Bitcoin Diploma - 2025 - PDF file](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/blob/9004869d28a34e8f70100bc0f0dd5dd80fb43eff/Bitcoin%20Diploma%20-%202025%20-%20PDF.pdf)
 
 ## About
 
