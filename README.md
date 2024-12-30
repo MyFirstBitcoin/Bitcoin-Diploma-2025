@@ -19,7 +19,7 @@ This repository houses translations of our materials, making them accessible to 
 We value your feedback and suggestions for improving the Bitcoin Diploma. If you encounter any errors, mistakes, or have ideas for changes, please let us know through the following methods:
 
 1. **Google Form**: Submit your feedback using [this form](https://forms.gle/rc1YD965dQEW3qZK6).
-2. **GitHub Issues**: Submit an issue through our [GitHub repository](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024/issues).
+2. **GitHub Issues**: Submit an issue through our [GitHub repository](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/issues).
 
 ## License
 
