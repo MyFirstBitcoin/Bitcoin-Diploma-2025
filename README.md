@@ -1,40 +1,51 @@
-# Bitcoin Diploma 2025
+# :mortar_board: Bitcoin Diploma 2025
 
-2025 version of our flagship 10-week program that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
+*2025 version of our flagship 10-week program that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.*
 
-[Bitcoin Diploma - 2025 - PDF file](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/blob/e529d970ad9ff8fe2e3bf4d1d2697238588524e4/Bitcoin%20Diploma%20-%202025%20-%20PDF.pdf)
+[**Bitcoin Diploma – 2025 – PDF file**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/blob/e529d970ad9ff8fe2e3bf4d1d2697238588524e4/Bitcoin%20Diploma%20-%202025%20-%20PDF.pdf)
 
-## About
+---
 
-The Bitcoin Diploma has been created by Mi Primer Bitcoin / My First Bitcoin and is made freely available to the public.
+## :notebook: About
 
-## Translation Repo
+The **Bitcoin Diploma** has been created by [Mi Primer Bitcoin / My First Bitcoin](https://myfirstbitcoin.io/) and is made freely available to the public.
 
-[My First Bitcoin - Translation Repository](https://github.com/MyFirstBitcoin/Translation) 
+---
 
+## :globe_with_meridians: Translation Repo
+
+[**My First Bitcoin – Translation Repository**](https://github.com/MyFirstBitcoin/Translation)  
 This repository houses translations of our materials, making them accessible to a diverse global audience. Our aim is to break language barriers by providing resources in a wide array of languages.
 
-## Feedback on the Diploma
+---
 
-We value your feedback and suggestions for improving the Bitcoin Diploma. If you encounter any errors, mistakes, or have ideas for changes, please let us know through the following methods:
+## :speech_balloon: Feedback on the Diploma
 
-1. **Google Form**: Submit your feedback using [this form](https://forms.gle/rc1YD965dQEW3qZK6).
-2. **GitHub Issues**: Submit an issue through our [GitHub repository](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/issues).
+We value your feedback and suggestions for improving the **Bitcoin Diploma**. If you encounter any errors, mistakes, or have ideas for changes, please let us know through the following methods:
 
-## License
+1. **Google Form**  
+   Submit your feedback using [this form](https://forms.gle/rc1YD965dQEW3qZK6).
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+2. **GitHub Issues**  
+   Submit an issue through our [GitHub repository](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/issues).
+
+---
+
+## :shield: License
+
+This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License**.
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 This means you are free to:
 
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
 ### Under the following terms:
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-For more information, please visit the [Creative Commons Attribution-ShareAlike 4.0 International License webpage](http://creativecommons.org/licenses/by-sa/4.0/).
+For more information, please visit the  
+[**Creative Commons Attribution-ShareAlike 4.0 International License webpage**](http://creativecommons.org/licenses/by-sa/4.0/).
