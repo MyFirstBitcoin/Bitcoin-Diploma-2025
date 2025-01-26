@@ -18,6 +18,6 @@ By sharing on GitHub, we encourage collaboration and contributions. Feel free to
 ---
 
 ## :page_with_curl: Editable PDF
-If you’re also looking for a quick way to translate the **Bitcoin Diploma 2025** itself, check out our [Editable PDF](#). This allows you to localize the text directly in your browser.
+If you’re also looking for a quick way to translate the **Bitcoin Diploma 2025** workbook, check out our [Editable PDF](#). This allows you to localize the text directly in your browser.
 
 
