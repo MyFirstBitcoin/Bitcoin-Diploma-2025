@@ -16,6 +16,8 @@ The **Bitcoin Diploma** has been created by [Mi Primer Bitcoin / My First Bitcoi
 
 ## :globe_with_meridians: Translation Repo
 
+[**2025 My First Bitcoin – Translation Page**](https://myfirstbitcoin.io/bd-local-translation/) 
+
 [**2025 My First Bitcoin – Translation Repository**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/tree/main/Translations) 
 
 [**2025 My First Bitcoin – Translation Google Drive**](https://drive.google.com/drive/folders/1WwOThf_E_jFgZaNXj022XXQJ7Glygz8R?usp=sharing) 
