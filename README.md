@@ -6,6 +6,8 @@
 
 [**Bitcoin Diploma – 2025 – CH 1-10 PPT FIles**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/tree/main/CH%201-10%20PPT)
 
+[**Bitcoin Diploma – 2025 – Google Drive - CH 1-10 PPT FIles**](https://drive.google.com/drive/folders/1MoArwxH98epFu6Sd2E9kZzZpjhzuMUuK?usp=sharing)
+
 ---
 
 ## :notebook: About
