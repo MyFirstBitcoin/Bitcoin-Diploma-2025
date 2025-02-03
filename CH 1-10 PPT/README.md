@@ -4,6 +4,7 @@ Welcome to the **Bitcoin Diploma 2025** chapter slides! These files provide a co
 
 Each **PowerPoint (PPT)** file corresponds to a specific chapter of the **Bitcoin Diploma 2025** curriculum.
 
+[**Bitcoin Diploma – 2025 – Google Drive - CH 1-10 PPT FIles**](https://drive.google.com/drive/folders/1MoArwxH98epFu6Sd2E9kZzZpjhzuMUuK?usp=sharing)
 ---
 
 ## :globe_with_meridians: Easy Localization
