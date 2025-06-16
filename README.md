@@ -1,6 +1,7 @@
 # 🎓 BD 2025
 
 Introducing the **2025 edition** of our flagship **10-week Bitcoin Diploma** – a globally recognized, open-source education program that takes you on an in-depth journey through Bitcoin’s origins, technology, philosophy, and real-world impact.  
+
 Trusted by thousands worldwide, it’s completely free to **use**, **adapt**, and **share** – because Bitcoin education should be for everyone, everywhere.
 
 ---
