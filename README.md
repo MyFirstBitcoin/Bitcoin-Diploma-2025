@@ -1,18 +1,21 @@
-# :mortar_board: Bitcoin Diploma 2025
+# 🎓 BD 2025
 
-*2025 version of our flagship 10-week program that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.*
-
-[**Bitcoin Diploma – 2025 – PDF file**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/blob/e529d970ad9ff8fe2e3bf4d1d2697238588524e4/Bitcoin%20Diploma%20-%202025%20-%20PDF.pdf)
-
-[**Bitcoin Diploma – 2025 – CH 1-10 PPT FIles**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/tree/main/CH%201-10%20PPT)
-
-[**Bitcoin Diploma – 2025 – Google Drive - CH 1-10 PPT FIles**](https://drive.google.com/drive/folders/1MoArwxH98epFu6Sd2E9kZzZpjhzuMUuK?usp=sharing)
+Introducing the **2025 edition** of our flagship **10-week Bitcoin Diploma** – a globally recognized, open-source education program that takes you on an in-depth journey through Bitcoin’s origins, technology, philosophy, and real-world impact.  
+Trusted by thousands worldwide, it’s completely free to **use**, **adapt**, and **share** – because Bitcoin education should be for everyone, everywhere.
 
 ---
 
-## :notebook: About
+## 📄 Resources
 
-The **Bitcoin Diploma** has been created by [Mi Primer Bitcoin / My First Bitcoin](https://myfirstbitcoin.io/) and is made freely available to the public.
+- [Bitcoin Diploma 2025 – PDF File](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/blob/e529d970ad9ff8fe2e3bf4d1d2697238588524e4/Bitcoin%20Diploma%20-%202025%20-%20PDF.pdf)  
+- [Bitcoin Diploma 2025 – CH 1-10 PPT Files](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025/tree/main/CH%201-10%20PPT)  
+- [Bitcoin Diploma 2025 – Google Drive – CH 1-10 PPT Files](https://drive.google.com/drive/folders/1MoArwxH98epFu6Sd2E9kZzZpjhzuMUuK)
+
+---
+
+## 🌱 About
+
+Born from the grassroots movement of **Mi Primer Bitcoin**, the Bitcoin Diploma is a global open-source resource – built to **educate**, **empower**, and **freely shared** with the world, made for everyone, everywhere.
 
 ---
 
@@ -25,6 +28,8 @@ The **Bitcoin Diploma** has been created by [Mi Primer Bitcoin / My First Bitcoi
 [**2025 My First Bitcoin – Translation Google Drive**](https://drive.google.com/drive/folders/1WwOThf_E_jFgZaNXj022XXQJ7Glygz8R?usp=sharing) 
 
 [**My First Bitcoin – Translation Repository - Pre 2025 Version**](https://github.com/MyFirstBitcoin/Translation)  
+
+[**My First Bitcoin - Translation Wiki 2025 Community Hub**](https://network.myfirstbitcoin.io/c/translation/16)  
 
 This repository houses translations of our materials, making them accessible to a diverse global audience. Our aim is to break language barriers by providing resources in a wide array of languages.
 
