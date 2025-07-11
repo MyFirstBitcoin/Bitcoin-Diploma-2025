@@ -1,10 +1,10 @@
 # Adobe Design Files – Bitcoin Diploma 2025
 
-This folder contains the **Adobe design source files** for the 2025 version of the Bitcoin Diploma.
+This folder contains the **Adobe Illustrator source files** for the 2025 version of the Bitcoin Diploma.
 
 ## Overview
 
-The 2025 design remains largely unchanged from the 2024 version. Only minor visual and content adjustments have been made.
+The 2025 design remains largely unchanged from the 2024 version. Only minor visual and content adjustments have been made. Included are the Adobe Illustrator files of the specific changes only. 
 
 ### Key Updates from 2024 to 2025:
 
